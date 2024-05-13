@@ -109,7 +109,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://www.linkedin.com/in/Rakib-12111/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/M Rakib Ahmed" target="_blank">
+<a href="https://www.facebook.com/M Rakib Ahmed Raiyan" target="_blank">
 <img src=https://img.shields.io/badge/[
   https://www.facebook.com/profile.php?id=61558133600821](https://www.facebook.com/profile.php?id=61558133600821).svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
